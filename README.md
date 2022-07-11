@@ -25,17 +25,18 @@ Before running the application, first install the following dependancies:
 ---
 
 ## Usage
-clone the repo by copying the link [here](git@github.com:danporeda/Loan_Qualifier.git), then open terminal, change the directory `cd` to the desired location, then command `git clone git@github.com:danporeda/Loan_Qualifier.git`. Run the app by commanding `python app.py`.
+clone the repo by copying the link [here](git@github.com:danporeda/Loan_Qualifier.git), then open terminal, change the directory `cd` to the desired location, then command `git clone git@github.com:danporeda/Loan_Qualifier.git`. Run the app by commanding `python app.py`. You will be prompted with questions regarding your loan, which will then output the fitered results of the loans you qualify for. 
 
+![CLI_input](https://github.com/danporeda/Loan_Qualifier/blob/main/Unsolved/screen_shot_loan_qualifier.png)
 
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+The project was brought to you by the talented instructors at Denver University Fintech bootcamp, and yours truly, Daniel Poreda.
 
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+MIT
