@@ -25,7 +25,7 @@ Before running the application, first install the following dependancies:
 ---
 
 ## Usage
-clone the repo by copying the link [here](git@github.com:danporeda/Loan_Qualifier.git), then open terminal, change the directory `cd` to the desired location, then command `git clone git@github.com:danporeda/Loan_Qualifier.git`. Run the app by commanding `python app.py`. You will be prompted with questions regarding your loan, which will then output the fitered results of the loans you qualify for. 
+clone the repo by copying the link [here](https://github.com/danporeda/Loan_Qualifier), then open terminal, change the directory `cd` to the desired location, then command `git clone git@github.com:danporeda/Loan_Qualifier.git`. Run the app by commanding `python app.py`. You will be prompted with questions regarding your loan, which will then output the fitered results of the loans you qualify for. 
 
 ![CLI_input](https://github.com/danporeda/Loan_Qualifier/blob/main/Unsolved/screen_shot_loan_qualifier.png)
 
